@@ -1,0 +1,99 @@
+*{
+    margin:0 ;
+    padding:0 ;
+
+}
+
+
+
+
+
+header {
+    width:100% ;
+    height:100vh;
+    background-image: url(  "https://cdn-sharing.adobecc.com/content/storage/id/urn:aaid:sc:US:aaf75fc2-eba3-41ec-bc48-de80d0615154;revision=0?component_id=811cc325-03fa-4b5b-886e-a5a3b618cfce&api_key=CometServer1&access_token=1670068043_urn%3Aaaid%3Asc%3AUS%3Aaaf75fc2-eba3-41ec-bc48-de80d0615154%3Bpublic_b3f129e61924157d5d3799d0add88f78e884c332");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+
+}
+
+.kyo {
+    position:relative ;
+    left:25rem ;
+    width:100vh ;
+}
+
+.wars {
+    position: relative;
+    left:74rem ;
+    width:35vh ;
+    top: -22vw
+     
+
+}
+/* {}
+            colocar o star aqui 
+*/
+
+.legion {
+    position: relative;
+    left:85rem ;
+    width:18vh ;
+    top:-18vw;
+}
+
+
+
+
+section{
+    width:100% ;
+    background-color: white; 
+    display: flex;
+    align-items:center ;
+}
+
+.fundo{
+    width:60vh ;
+    height:60vw ;
+}
+
+figure .mexer {
+  
+    position: relative;
+    top:15vw ;
+    right:25vh ;
+    
+
+    
+}
+figure .mexerNew {
+  
+    position: relative;
+    top:18vw ;
+    left:10vh ;
+    width:32vh ;
+    
+
+    
+}
+
+
+main {
+    height:85vh ;
+    background-color: #2D2D2D;
+    
+}
+
+.titulo{
+  width:40vh ;
+  position:relative ;
+  top:10vw ;
+  font-size:2.5rem ;
+  left:39vh ;
+  text-transform:uppercase ;
+  color:white ;
+}
